@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Carlota M",
+    "occupation": "Frontend Developer",
+    "description": "Frontend Developer",
+    "image": "Carlota.png",
+    "bio": "My name is Carlota, I'm a Frontend Developer. Currently I'm working at React project ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Barcelona",
+      "state": "Spain",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/carlota-molina-trevino/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/carlotamolintr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Barcelona",
+        "degree": "Geology Degree",
+        "graduated": "",
+        "description": ""
+      },
+      {
+        "school": "University of Barcelona",
+        "degree": "Oceanography and Marine Environmental Management",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "IT Azertium",
+        "title": "Frontend developer",
+        "years": "Aug. 19 - June 20",
+        "description": "VueJS & Nuxt"
+      },
+      {
+        "company": "eDreams ODIGEO",
+        "title": "Procurement Dept.",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "VueJs",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mobile WebApp Mediterranean Marine Mammals",
+        "category": "VueJs",
+        "image": "MMM-project.png",
+        "url": "https://carlotaceans.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "...",
+        "user": "..."
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
