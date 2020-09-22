@@ -16,8 +16,7 @@
     },
     "website": "",
     "resumedownload": "",
-    "social": [
-      {
+    "social": [{
         "name": "Linkedin",
         "url": "https://www.linkedin.com/in/carlota-molina-trevino/",
         "className": "fa fa-linkedin"
@@ -31,8 +30,7 @@
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
+    "education": [{
         "school": "University of Barcelona",
         "degree": "Geology Degree",
         "graduated": "",
@@ -45,12 +43,11 @@
         "description": ""
       }
     ],
-    "work": [
-      {
+    "work": [{
         "company": "IT Azertium",
         "title": "Frontend developer",
         "years": "Aug. 19 - June 20",
-        "description": "VueJS & Nuxt"
+        "description": "VueJS & Nuxt in Tous Jewelry project"
       },
       {
         "company": "eDreams ODIGEO",
@@ -59,46 +56,46 @@
         "description": ""
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "VueJs",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "ReactJs",
-        "level": "20%"
+        "level": "5%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "80%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Adobe",
+        "name": "Adobe Acrobat",
         "level": "55%"
       },
       {
         "name": "HTML5",
         "level": "80%"
+      },
+      {
+        "name": "Bootrstrap",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
-    "projects": [
-      {
-        "title": "Mobile WebApp Mediterranean Marine Mammals",
-        "category": "VueJs",
-        "image": "MMM-project.png",
-        "url": "https://carlotaceans.netlify.app/"
-      }
-    ]
+    "projects": [{
+      "title": "Mobile WebApp Mediterranean Marine Mammals",
+      "category": "VueJs",
+      "image": "MMM-project.png",
+      "url": "https://mediterranean-marine-mammals.netlify.app/"
+    }]
   },
   "testimonials": {
-    "testimonials": [
-      {
+    "testimonials": [{
         "text": "...",
         "user": "..."
       },
